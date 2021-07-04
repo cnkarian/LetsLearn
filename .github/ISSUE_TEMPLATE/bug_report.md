@@ -10,6 +10,12 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Preconditions**
+Preconditions to be set to reproduce the behavior.
+1. Attribute X is set to value A.
+2. Attribute Y is set to value B.
+3. Internet connection is on slow speed - 2G
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
@@ -26,15 +32,11 @@ If applicable, add some logs or stack trace to help explain the issue in details
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+**Environment Information:**
+The behavior was observed using the below environment details
+ - Device: [e.g. Huawei Mate30 Pro]
+ - OS: [e.g. OHOS8.1]
  - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
 **Additional context**
